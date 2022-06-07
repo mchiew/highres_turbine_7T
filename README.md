@@ -1,4 +1,4 @@
-# highres_turbine_7T
+# Data for Ultra-High Resolution fMRI at 7T using Radial-Cartesian TURBINE sampling
 
 Raw datasets in ISMRMRD format for the paper: Graedel NN, Miller KL, Chiew M, "Ultra-High Resolution fMRI at 7T using Radial-Cartesian TURBINE sampling", Magnetic Resonance in Medicine.
 
